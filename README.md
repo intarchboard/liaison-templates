@@ -20,3 +20,5 @@ All incoming liaisons are replied to by the liaison manager using email (in a ti
      --or--
 
      * The liaison manager coordinates a crafted liaison response with the interested parties from the IETF/IAB/IRTF etc.  There is no template for this type of response.
+   
+CC all mails to liaison-coordination@iab.org 
