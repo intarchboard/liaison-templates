@@ -1,7 +1,9 @@
-Subject:  Receipt of **{Liaison Title}**
+Subject: Receipt of {Liaison Title}
 
-**{Insert From}**
+{Insert From}
 
-Thank you for your incoming liaison statement **{insert title}**.  The appropriate part(s) of the IRTF community have been made aware of your message and the liaison statement has been logged in the IETF's Liaison Database **{insert link}**.
+Thank you for your incoming liaison statement {insert title}. The appropriate part(s) of the IRTF community have been made aware of your message and the liaison statement has been logged in the IETF's Liaison Database {insert link}.
 
-Please note, the IRTF has no official position on any topic, including Liaison Statements, until the IRTF replies in a liaison statement.
+The IRTF is a contribution driven research-oriented organization, with guidelines and procedures described in IRTF Policies and Procedures (1). Each IRTF Research Group is permitted to agree on working methods that fit the needs of the Research Group. However, without going through the IETF's defined process to gather consensus (2), the IRTF has no official position on any topic, including Liaison Statements.
+
+(1) IRTF Policies and Procedures https://www.irtf.org/policies (2) Internet Standards Process https://www.ietf.org/process/process
